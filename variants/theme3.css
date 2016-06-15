@@ -1,0 +1,132 @@
+
+.CodeMirror,
+.CodeMirror-scroll {
+    background-color: #243338;
+    color: #eaeaea;
+}
+.CodeMirror-lines {
+    padding: 5px 0;
+}
+.CodeMirror-focused .CodeMirror-activeline .inline-widget {
+    color: #e0e2e4;
+}
+.CodeMirror-searching {
+    background-color: #616161;
+}
+.CodeMirror-cursor {
+    border-left: 1px solid #e0e2e4 !important;
+}
+.CodeMirror-gutters {
+    background-color: #243338;
+    border-right: none;
+}
+.CodeMirror-linenumber {
+    color: #81969a;
+}
+.CodeMirror .CodeMirror-selected {
+    background: #4C4C4C;
+}
+.CodeMirror-focused .CodeMirror-selected {
+    background: #804000;
+}
+.CodeMirror-matchingbracket,
+.CodeMirror-matchingtag {
+    background-color: #4C4C4C;
+    color: #678cb1 !important;
+}
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-left: none !important;
+    border-bottom: 1px solid #fff;
+}
+
+.image-view,
+.not-editor {
+    background-color: #282B35;
+}
+.view-pane .image-view {
+    color: #eaeaea;
+}
+.dark #editor-holder .pane-header {
+    background-color: #242F3A;
+}
+
+/* Syntax style */
+.cm-atom {
+    color: #4DA7B7;
+}
+.cm-plus {
+    color: #e0e2e4;
+}
+.cm-hr {
+    color: #e0e2e4;
+}
+.cm-number {
+    color: #FF7F40;
+}
+.cm-string {
+    color: #93c763;
+}
+.cm-string-2 {
+    color: #93c763;
+}
+.cm-attribute {
+    color: #93c763;
+}
+.cm-keyword {
+    color: #AFA6DA;
+}
+.cm-tag {
+    color: #678cb1;
+}
+.cm-bracket {
+    color: #678cb1;
+}
+.cm-variable {
+    color: #e0e2e4;
+}
+.cm-variable-2 {
+    color: #E26F89;
+}
+.cm-variable-3 {
+    color: #e0e2e4;
+}
+.cm-builtin {
+    color: #93c763;
+}
+.cm-quote {
+    color: #e0e2e4;
+}
+.cm-def {
+    color: #E26F89;
+}
+.cm-rangeinfo {
+    color: #e0e2e4;
+}
+.cm-property {
+    color: #F9F9F9;
+}
+.cm-meta {
+    color: #e0e2e4;
+}
+.cm-operator {
+    color: #e0e2e4;
+}
+.cm-comment {
+    color: #607A86;
+}
+.cm-error {
+    color: #dc322f;
+}
+.cm-minus {
+    color: #e0e2e4;
+}
+.cm-header {
+    color: #e0e2e4;
+}
+.cm-link {
+    color: #e0e2e4;
+    text-decoration: none;
+}
+.cm-qualifier {
+    color: #E26F89;
+}
