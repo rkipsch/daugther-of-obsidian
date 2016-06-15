@@ -1,0 +1,145 @@
+
+.CodeMirror,
+.CodeMirror-scroll {
+    background-color: #243338;
+    color: #eaeaea;
+}
+.CodeMirror-lines {
+    padding: 5px 0;
+}
+.CodeMirror-focused .CodeMirror-activeline .inline-widget {
+    /*color: #e0e2e4;*/
+}
+.CodeMirror-activeline-background,
+.CodeMirror-activeline-gutter {
+    background: #2E3D42 !important;
+    border-bottom: 1px solid #394A50;
+    border-top: 1px solid #394A50;
+}
+.CodeMirror-searching {
+    background-color: #616161;
+}
+.CodeMirror-cursor {
+    border-left: 1px solid #e0e2e4 !important;
+}
+.CodeMirror-gutters {
+    background-color: #243338;
+    border-right: 1px solid #29383E;
+}
+.CodeMirror-linenumber {
+    color: #81969a;
+}
+.CodeMirror .CodeMirror-selected {
+    background: #4C4C4C;
+}
+.CodeMirror-focused .CodeMirror-selected {
+    background: #4b4755;
+}
+.CodeMirror-matchingbracket {
+    background-color: #334B52;
+    color: #8FACCA !important;
+}
+.CodeMirror-matchingtag {
+    background-color: #334B52;
+}
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-left: none !important;
+    border-bottom: 1px solid #fff;
+}
+.CodeMirror-foldgutter-open:after {
+    color: #767C80;
+}
+
+.image-view,
+.not-editor {
+    background-color: #1C272B;
+}
+
+.view-pane .image-view {
+    color: #eaeaea;
+}
+
+.dark #editor-holder .pane-header {
+    background-color: #242F3A;
+}
+
+/* Syntax style */
+.cm-atom {
+    color: #4DA7B7;
+}
+.cm-plus {
+    color: #e0e2e4;
+}
+.cm-hr {
+    color: #e0e2e4;
+}
+.cm-number {
+    color: #CED231;
+}
+.cm-string {
+    color: #FF9523;
+}
+.cm-string-2 {
+    color: #93c763;
+}
+.cm-attribute {
+    color: #93c763;
+}
+.cm-keyword {
+    color: #90D276;
+}
+.cm-tag {
+    color: #499FA9;
+}
+.cm-bracket {
+    color: #499FA9;
+}
+.cm-variable {
+    color: #e0e2e4;
+}
+.cm-variable-2 {
+    color: #E2BA6F;
+}
+.cm-variable-3 {
+    color: #e0e2e4;
+}
+.cm-builtin {
+    color: #93c763;
+}
+.cm-quote {
+    color: #e0e2e4;
+}
+.cm-def {
+    color: #E26F99; /*#E2BA6F;*/
+}
+.cm-rangeinfo {
+    color: #e0e2e4;
+}
+.cm-property {
+    color: #F5F5F5;
+}
+.cm-meta {
+    color: #e0e2e4;
+}
+.cm-operator {
+    color: #e0e2e4;
+}
+.cm-comment {
+    color: #607A86;
+}
+.cm-error {
+    color: #dc322f;
+}
+.cm-minus {
+    color: #e0e2e4;
+}
+.cm-header {
+    color: #e0e2e4;
+}
+.cm-link {
+    color: #e0e2e4;
+    text-decoration: none;
+}
+.cm-qualifier {
+    color: #E26F89;
+}
