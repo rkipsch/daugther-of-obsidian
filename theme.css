@@ -63,6 +63,10 @@
     background-color: #242F3A;
 }
 
+.cm-string.cm-property {
+    color: #AAA1CE !important;
+}
+
 /* Syntax style */
 .cm-atom {
     color: #4DA7B7;
@@ -77,10 +81,10 @@
     color: #CED231;
 }
 .cm-string {
-    color: #FF9523;
+    color: #FF8400;
 }
 .cm-string-2 {
-    color: #93c763;
+    color: #FF8400;
 }
 .cm-attribute {
     color: #93c763;
@@ -98,7 +102,7 @@
     color: #e0e2e4;
 }
 .cm-variable-2 {
-    color: #E2BA6F;
+    color: #DEAB4A;
 }
 .cm-variable-3 {
     color: #e0e2e4;
